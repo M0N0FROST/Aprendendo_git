@@ -1,5 +1,5 @@
 IMPORTANTE
-Sprint-
+O que é Sprint-
 São períodos utilizados para a conclusão de uma parte de um projeto desenvolvido por meio da metodologia ágil conhecida como Scrum
 Sprint-significa arrancada; na Sprint, a equipe precisa terminar em um período pré-determinado e curto tudo o que foi planejado para aquele ciclo.
 
