@@ -1,0 +1,46 @@
+Faça uma pesquisa da definição de cada termo
+Sprint-
+São períodos utilizados para a conclusão de uma parte de um projeto desenvolvido por meio da metodologia ágil conhecida como Scrum
+Sprint-significa arrancada; na Sprint, a equipe precisa terminar em um período pré-determinado e curto tudo o que foi planejado para aquele ciclo.
+
+Product Backlog-
+Backlog refere-se a um log de acumulação de trabalho num determinado intervalo de tempo. Backlog é uma espécie de estoque de folhas de requisições/encomendas de produtos ainda não produzidos.
+Blacklog resumindo é uma “pilha de pedidos” em espera.
+
+Sprint Planning-
+O objetivo do planejamento do é definir o que irá ser entregue no Sprint e como esse trabalho ira ser desenvolvido e alcançado. O planejamento do Sprint é feito em colaboração com toda a esquipe.
+Sprint BlackLog-
+Basicamente, é uma lista de atividades que precisam ser feitas durante um Sprint. Essas histórias são agora desmembradas em atividades para serem executadas. Além de ser uma forma de organização das tarefas, são marcos que permitem controlar o andamento do projeto em cada Sprint.
+
+Daily Meeting ou Daily Scrum-
+Reuniões diárias, de 15 minutos, para discutir o que foi feito, qual o plano para as próximas 24 horas e o que tanto está impedindo o time de avançar.
+
+Sprint Review-
+É a validação de entregas da equipe e verificar se os critérios estabelecidos no planejamento foram alcançados. Momento de coletar feedbacks do que a equipe desenvolveu.
+
+
+
+
+Spring Retrospective-
+Consiste em uma reunião normalmente de no máximo três horas para sprints de um mês.
+Ele deve garantir que o evento ocorra e que os participantes entendam seu propósito. A retrospectiva é a oportunidade para a equipe Scrum melhorar e todos os membros devem estar presentes.
+Durante o Sprint Retrospective, a equipe discute:
+•	O que correu bem no Sprint
+•	O que poderia ser melhorado
+•	O que nos comprometemos a melhorar no próximo Sprint
+
+Scrum Master-
+Responsável por orientar, treinar, ensinar e auxiliar um tempo de Scrum em um entendimento e o uso adequado. A pessoa que faz o time deve seguir as regras para que os eventos e artefatos ocorram de forma correta.
+
+Product Owner-
+Ele prioriza os itens do Product Backlog e a equipe seleciona as atividades que ela será capaz de implementar durante o Sprint que se inicia.
+O Product Owner tem as seguintes responsabilidades:
+•	Definir as funcionalidades do produto (Backlog do Produto);
+•	Priorizar as funcionalidades de acordo com o valor de negócio;
+•	Ajustar funcionalidades e prioridades a cada Sprint, conforme necessário;
+•	Garantir que o Backlog do Produto seja visível, transparente e claro para todos;
+•	Garantir que o Time de Desenvolvimento entenda os itens do Backlog do Produto no nível necessário;
+•	Decidir a data de liberação e conteúdo do Release; e,
+•	Aceitar ou Rejeitar os resultados de trabalho.
+
+
